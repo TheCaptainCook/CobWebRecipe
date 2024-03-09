@@ -1,0 +1,8 @@
+name: CobWebRecipe
+version: '${project.version}'
+main: com.thecaptaincook.cobwebrecipe.CobWebRecipe
+api-version: '1.20'
+prefix: CWR
+authors: [TheCaptainCook]
+description: THis is a description
+website: https://github.com/TheCaptainCook/CobWebRecipe
